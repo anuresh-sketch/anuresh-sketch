@@ -1,11 +1,8 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-
 <!--                  ANURESH CHAUDHARY — GITHUB README              -->
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ANIMATED HEADER -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Anuresh%20Chaudhary&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Cybersecurity%20%7C%20C%2B%2B%20%7C%20JavaScript%20%7C%20Creative%20Designer&descSize=17&descAlignY=60&descColor=a0aec0" width="100%"/>
@@ -13,7 +10,6 @@
 </div>
 
 <!-- TYPING ANIMATION -->
-
 <div align="center">
 
 <a href="https://github.com/anuresh-sketch">
@@ -28,26 +24,24 @@
 
 <br>
 
-<!-- ABOUT ME -->
+---
 
+<!-- ABOUT ME -->
 <h2 align="center">
   👋 About Me
 </h2>
 
 <div align="center">
 
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
-
+```cpp
 class Anuresh {
+
 public:
 
-    string name     = "Anuresh Chaudhary";
-    string college  = "IIIT Bhopal";
-    string branch   = "CSE — Cybersecurity";
-    string location = "India 🇮🇳";
+    string name       = "Anuresh Chaudhary";
+    string college    = "IIIT Bhopal";
+    string branch     = "CSE — Cybersecurity";
+    string location   = "India 🇮🇳";
 
     vector<string> currentlyLearning = {
         "Data Structures & Algorithms",
@@ -68,13 +62,15 @@ public:
 
     string funFact = "I debug code and design things too 😎";
 };
+```
 
 </div>
 
 <br>
 
-<!-- TECH STACK -->
+---
 
+<!-- TECH STACK -->
 <h2 align="center">💻 Tech Stack & Creative Arsenal</h2>
 
 <h4 align="center">⚡ Programming & Development</h4>
@@ -129,50 +125,30 @@ public:
 
 <br>
 
-<!-- SKILL MATRIX -->
+---
 
+<!-- SKILL MATRIX -->
 <h2 align="center">📈 My Current Skill Journey</h2>
 
 <div align="center">
 
-🚀 Area
-
-📊 Current Focus
-
-C++
-
-⭐⭐⭐⭐☆
-
-DSA
-
-⭐⭐⭐☆☆
-
-JavaScript
-
-⭐⭐⭐☆☆
-
-Web Development
-
-⭐⭐⭐☆☆
-
-Cybersecurity
-
-⭐⭐⭐☆☆
-
-Graphic Design
-
-⭐⭐⭐⭐☆
-
-Photoshop
-
-⭐⭐⭐⭐☆
+| 🚀 Area | 📊 Current Focus |
+| :--- | :---: |
+| C++ | ⭐⭐⭐⭐☆ |
+| DSA | ⭐⭐⭐☆☆ |
+| JavaScript | ⭐⭐⭐☆☆ |
+| Web Development | ⭐⭐⭐☆☆ |
+| Cybersecurity | ⭐⭐⭐☆☆ |
+| Graphic Design | ⭐⭐⭐⭐☆ |
+| Photoshop | ⭐⭐⭐⭐☆ |
 
 </div>
 
 <br>
 
-<!-- WHAT I'M LEARNING -->
+---
 
+<!-- WHAT I'M LEARNING -->
 <h2 align="center">🔥 Currently Working On</h2>
 
 <div align="center">
@@ -182,7 +158,7 @@ Photoshop
 
 <td width="33%" align="center" valign="top">
 
-🧠 DSA
+### 🧠 DSA
 
 <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge"/>
 
@@ -194,7 +170,7 @@ Arrays → Searching → Sorting → Trees → Graphs
 
 <td width="33%" align="center" valign="top">
 
-🌐 Web Development
+### 🌐 Web Development
 
 <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge"/>
 
@@ -206,7 +182,7 @@ JavaScript → DOM → APIs → Backend
 
 <td width="33%" align="center" valign="top">
 
-🔐 Cybersecurity
+### 🔐 Cybersecurity
 
 <img src="https://img.shields.io/badge/Status-Exploring-purple?style=for-the-badge"/>
 
@@ -223,8 +199,9 @@ Linux → Bash → Networking → Security
 
 <br>
 
-<!-- GITHUB ANALYTICS -->
+---
 
+<!-- GITHUB ANALYTICS -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -246,7 +223,6 @@ Linux → Bash → Networking → Security
 <br>
 
 <!-- ACTIVITY GRAPH -->
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuresh-sketch&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=61DAFB&line=7b4fff&point=ff3e6c&area=true&area_color=7b4fff" width="92%" alt="GitHub Activity Graph"/>
@@ -256,7 +232,6 @@ Linux → Bash → Networking → Security
 <br>
 
 <!-- TROPHIES -->
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=anuresh-sketch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" alt="GitHub Trophies"/>
@@ -265,8 +240,9 @@ Linux → Bash → Networking → Security
 
 <br>
 
-<!-- PROJECTS -->
+---
 
+<!-- PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
@@ -276,43 +252,32 @@ Linux → Bash → Networking → Security
 
 <td width="50%" valign="top">
 
-💻 DSA Practice
+### 💻 DSA Practice
 
-My journey of solving Data Structures & Algorithms problems using C++.
+> My journey of solving Data Structures & Algorithms problems using C++.
 
-Focus:
-
-Arrays
-
-Searching
-
-Sorting
-
-Trees
-
-Graphs
-
-Problem Solving
+**Focus:**
+- Arrays
+- Searching
+- Sorting
+- Trees
+- Graphs
+- Problem Solving
 
 </td>
 
 <td width="50%" valign="top">
 
-🌐 Web Development
+### 🌐 Web Development
 
-Building projects while learning HTML, CSS and JavaScript.
+> Building projects while learning HTML, CSS and JavaScript.
 
-Focus:
-
-DOM Manipulation
-
-JavaScript
-
-Interactive UI
-
-APIs
-
-Frontend Projects
+**Focus:**
+- DOM Manipulation
+- JavaScript
+- Interactive UI
+- APIs
+- Frontend Projects
 
 </td>
 
@@ -322,37 +287,29 @@ Frontend Projects
 
 <td width="50%" valign="top">
 
-🎨 Design Portfolio
+### 🎨 Design Portfolio
 
-Creative work combining technology and graphic design.
+> Creative work combining technology and graphic design.
 
-Tools:
-
-Photoshop
-
-Canva
-
-Lightroom
-
-Figma
+**Tools:**
+- Photoshop
+- Canva
+- Lightroom
+- Figma
 
 </td>
 
 <td width="50%" valign="top">
 
-🔐 Cybersecurity Lab
+### 🔐 Cybersecurity Lab
 
-Exploring Linux, Bash and cybersecurity fundamentals.
+> Exploring Linux, Bash and cybersecurity fundamentals.
 
-Learning:
-
-Linux
-
-Bash
-
-Networking
-
-Security Fundamentals
+**Learning:**
+- Linux
+- Bash
+- Networking
+- Security Fundamentals
 
 </td>
 
@@ -363,8 +320,9 @@ Security Fundamentals
 
 <br>
 
-<!-- CONNECT -->
+---
 
+<!-- CONNECT -->
 <h2 align="center">🤝 Let's Connect</h2>
 
 <div align="center">
@@ -373,13 +331,13 @@ Security Fundamentals
 <img src="https://img.shields.io/badge/GitHub-anuresh--sketch-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
- 
+&nbsp;
 
 <a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 
- 
+&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
@@ -389,8 +347,9 @@ Security Fundamentals
 
 <br>
 
-<!-- DEV QUOTE -->
+---
 
+<!-- DEV QUOTE -->
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" alt="Developer Quote"/>
@@ -400,7 +359,6 @@ Security Fundamentals
 <br>
 
 <!-- SNAKE ANIMATION -->
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/anuresh-sketch/anuresh-sketch/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Contribution Snake"/>
@@ -410,13 +368,12 @@ Security Fundamentals
 <br>
 
 <!-- FOOTER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
 
 <div align="center">
 
-⚡ Learn. Build. Break. Fix. Repeat.
+### ⚡ Learn. Build. Break. Fix. Repeat.
 
-CSE Cybersecurity Student • Developer • Designer • Creator
+**CSE Cybersecurity Student • Developer • Designer • Creator**
 
 </div>
